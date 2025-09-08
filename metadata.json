@@ -1,0 +1,5 @@
+{
+  "name": "AI Pose Changer",
+  "description": "An application that allows users to select a classic modeling pose, upload a photo, and use AI to transform the subject's pose in the photo to the selected one with a close-up shot.",
+  "requestFramePermissions": []
+}
